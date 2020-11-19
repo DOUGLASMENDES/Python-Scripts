@@ -13,7 +13,7 @@ import os, datetime
 import re # For regular expression
 
 # Working directory
-directory = './paginas'
+directory = './rename-files-folder/paginas'
 
 # Get a list of files in the directory
 filelist = os.listdir( directory )

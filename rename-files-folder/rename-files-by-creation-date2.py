@@ -6,7 +6,7 @@
 import os, datetime
 
 # Working directory
-directory = './paginas'
+directory = './rename-files-folder/paginas'
 
 # extensions for files that we want rename
 extensions = (['.jpg', '.png', '.jpeg'])
