@@ -5,10 +5,13 @@ images into a pdf, for example.
 
 You must have Kindle for PC installed.
 
+Get the mouse positions using the script 
+show_mouse_position.py
+
 Libs:
 - pyautogui (execute $ pip install pyautogui)
 
-
+--------------------------------------------------------
 References:
 
 - 3 ways to do RPA with Python
@@ -22,3 +25,4 @@ https://github.com/asweigart/pyautogui
 
 - Pynput
 https://pypi.org/project/pynput/
+--------------------------------------------------------
