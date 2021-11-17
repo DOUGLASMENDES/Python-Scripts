@@ -7,7 +7,7 @@ format = '.png'
 #----------      PARÂMETROS      -----------
 
 # TOTAL PAGE NUMBER / NÚMERO DE PÁGINAS AQUI:
-total_pages = 22
+total_pages = 140
 
 # SCREENSHOTS PATH / PATH A SALVAR OS SCREENSHOTS:
 path = "C:\\Livros\\01\\"
