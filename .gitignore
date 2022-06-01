@@ -1,2 +1,10 @@
 .DS_Store
 *geckodriver.log
+convert-pdf-to-audiobook/__pycache__/google_translator.cpython-38.pyc
+convert-pdf-to-audiobook/Data Science for Business.pdf
+convert-pdf-to-audiobook/pdf-to-audiobook_OLD.py
+convert-pdf-to-audiobook/pdf-to-audiobook_menor.py
+temp/daily-treasury-rates.xlsx
+temp/planilha.py
+vcards/make_vcards.py
+vcards/numeros.txt
